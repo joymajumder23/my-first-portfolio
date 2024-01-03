@@ -37,8 +37,12 @@
 }
 #msg{
     display: block;
-    padding: 10px 10px 10px;
+    padding: 20px 3px 10px;
+    margin-bottom: 10px;
 }
-.email, .sub{
-    margin-top: 10px;
+.subject{
+    margin-bottom: 10px;
+}
+.email{
+    margin-bottom: 10px;
 }
