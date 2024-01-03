@@ -1,0 +1,43 @@
+.image{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgb(55, 55, 238);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    padding: 3px;
+}
+#joy{
+    font-weight: bold;
+    color: black;
+    font-family: sans-serif;
+    text-justify: auto;
+    text-align: center;
+}
+#bio{
+    font-weight: bold;
+    color: rgb(253, 2, 2);
+    font-family: sans-serif;
+    text-justify: auto;
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: underline black;
+}
+.topic{
+    background-color: rgb(138, 138, 255); 
+}
+.bsc,.hsc,.ssc{
+    font-weight: bold;
+    font-size: large;
+}
+.edu{
+    font-size: larger;
+}
+.pc{
+    font-size: larger;
+}
+.lp{
+    font-size: larger; 
+}
