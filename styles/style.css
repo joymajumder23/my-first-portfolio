@@ -32,12 +32,13 @@
     font-weight: bold;
     font-size: large;
 }
-.edu{
-    font-size: larger;
+.pc,.edu,.lp, .skills, .per{
+    font-size: larger;  
 }
-.pc{
-    font-size: larger;
+#msg{
+    display: block;
+    padding: 10px 10px 10px;
 }
-.lp{
-    font-size: larger; 
+.email, .sub{
+    margin-top: 10px;
 }
