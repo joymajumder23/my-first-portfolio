@@ -46,3 +46,13 @@
 .email{
     margin-bottom: 10px;
 }
+.send{
+    border-radius: 10px;
+}
+.add{
+    /* font-weight: bold; */
+    color: black;
+    font-family: sans-serif;
+    text-justify: auto;
+    text-align: center;
+}
